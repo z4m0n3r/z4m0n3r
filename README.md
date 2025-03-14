@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @z4m0n3r
+- 👀 I’m interested in developer softwares and systems...
+- 🌱 I’m currently learning computer science...
+- 💞️ I’m looking to collaborate on upgrade the knowledge of society with softwares that do facilities for compreeding problems of our society
+and breaking down fears and lack of knowledge about people's daily lives...
+<!---
+z4m0n3r/z4m0n3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
