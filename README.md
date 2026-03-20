@@ -87,7 +87,7 @@
 ---
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=z4m0n3r&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=z4m0n3r&show_icons=true&theme=onedark&hide=commits&count_private=true&cache_seconds=1800" 
     height="140" alt="GitHub Stats"/>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=z4m0n3r&layout=compact&langs_count=7&theme=onedark&cache_seconds=1800" 
