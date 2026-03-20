@@ -86,12 +86,10 @@
     
 ---
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=z4m0n3r&show_icons=true&theme=onedark&hide=commits&count_private=true&cache_seconds=1800" 
-    height="140" alt="GitHub Stats"/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=z4m0n3r&layout=compact&langs_count=7&theme=onedark&cache_seconds=1800" 
-    height="140" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4m0n3r&layout=compact&theme=onedark&hide_border=true&card_width=600" alt="Top Langs" />
+</p>
+ <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z4m0n3r&theme=onedark" height="150" />
 </p>
 
 <p align="center">
