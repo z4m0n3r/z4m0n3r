@@ -86,7 +86,7 @@
     
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4m0n3r&layout=compact&theme=onedark&hide_border=true&card_width=600" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4m0n3r&layout=compact&theme=onedark&hide_border=true&card_width=600&include_all_commits=true&count_private=true&langs_count=10&v=2" alt="Top Langs" />
 </p>
  <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z4m0n3r&theme=onedark" height="150" />
