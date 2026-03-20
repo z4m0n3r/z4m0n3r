@@ -4,6 +4,4 @@
 - 💞️ I’m looking to collaborate on upgrade the knowledge of society with softwares that do facilities for compreeding problems of our society
 and breaking down fears and lack of knowledge about people's daily lives...
 
-### 🐍 Jogo da Cobrinha de Contribuições
-
-![Snake animation](https://github.com/z4m0n3r/z4m0n3r/blob/main/.github/workflows/snake.yml)
+<img width="100%" src="https://raw.githubusercontent.com/z4m0n3r/z4m0n3r/output/snake.svg" alt="Snake animation" />
