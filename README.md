@@ -81,6 +81,11 @@
     * **Minha Venture Builder de SaaS:** O núcleo de engenharia onde projeto e escalo soluções digitais proprietárias. A Codaron funciona como a infraestrutura base e a metodologia de desenvolvimento para todos os meus sub-projetos, garantindo segurança e performance de ponta a ponta.
 * **[Eibolsa.com](https://eibolsa.com)** • *Product Lead (by Codaron)*
     * Plataforma de análise de mercado financeiro com IA, desenvolvida sob a arquitetura e os padrões de qualidade da Codaron para simplificar a tomada de decisão de investidores.
+* **LLM local** •  *Product Lead*
+    * Desenvolvimento de LLm Local para segurança e otimização de empresas
+    (consiste em desenvolver IA localmente para que não tenha dados publicos na rede)
+* **Dev Solutions (interno)**    
+    * Desenvolvimento de soluções empresariais internas
 * **Framework de Arquitetura Web (freelance)**
     * Criação de metodologias para estruturação de projetos modernos (Agile SaaS), equilibrando performance no Front-end e segurança no Back-end.
     
