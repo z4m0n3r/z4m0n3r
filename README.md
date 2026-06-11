@@ -75,17 +75,6 @@
 * **Security Researcher**
     * Execução de testes de vulnerabilidade e aplicação de protocolos de *Security-first* para garantir a integridade de sistemas complexos.
 ---
-## 🚀 Projetos em Destaque
-
-* **[Eibolsa.com](https://eibolsa.com)** • *Product Lead (by Codaron)*
-    * Plataforma de análise de mercado financeiro com IA, desenvolvida sob a arquitetura e os padrões de qualidade da Codaron para simplificar a tomada de decisão de investidores.
-* **LLM local** •  *Product Lead*
-    * Desenvolvimento de LLm Local para segurança e otimização de empresas
-    (consiste em desenvolver IA localmente para que não tenha dados publicos na rede)
-* **Dev Solutions (interno)**    
-    * Desenvolvimento de soluções empresariais internas
-* **Framework de Arquitetura Web (freelance)**
-    * Criação de metodologias para estruturação de projetos modernos (Agile SaaS), equilibrando performance no Front-end e segurança no Back-end.
     
 ---
 <p align="center">
