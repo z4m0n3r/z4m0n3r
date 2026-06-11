@@ -77,8 +77,6 @@
 ---
 ## 🚀 Projetos em Destaque
 
-* **[Codaron.com](https://codaron.com)** • *Founder & Lead Architect*
-    * **Minha Venture Builder de SaaS:** O núcleo de engenharia onde projeto e escalo soluções digitais proprietárias. A Codaron funciona como a infraestrutura base e a metodologia de desenvolvimento para todos os meus sub-projetos, garantindo segurança e performance de ponta a ponta.
 * **[Eibolsa.com](https://eibolsa.com)** • *Product Lead (by Codaron)*
     * Plataforma de análise de mercado financeiro com IA, desenvolvida sob a arquitetura e os padrões de qualidade da Codaron para simplificar a tomada de decisão de investidores.
 * **LLM local** •  *Product Lead*
