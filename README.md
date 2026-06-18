@@ -56,12 +56,6 @@
   </tr>
 </table>
 
----
-## 🎓 Formação & Fundamentos
-
-* **Especialização Full-Stack** • Curso.dev & FullstackClub
-* **Foco de Estudo** • Arquitetura de Software, Estrutura de Dados e Segurança Ofensiva.
----
 
 ## 🏗️ Experiência & Atuação Profissional
 
