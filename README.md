@@ -59,7 +59,6 @@
 ---
 ## 🎓 Formação & Fundamentos
 
-* **Bacharelado em Ciência da Computação** • UNIP (2º Semestre)
 * **Especialização Full-Stack** • Curso.dev & FullstackClub
 * **Foco de Estudo** • Arquitetura de Software, Estrutura de Dados e Segurança Ofensiva.
 ---
