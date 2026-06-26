@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou <strong>Gabriel Zamoner</strong> </h1>
 <p align="center">
-  <em>Eu construo ideias • Engenharia de software & Arquitetura de projetos </em>
+  <em> i build ideas • Engenharia de software & Arquitetura de projetos </em>
 </p>
 
 ---
