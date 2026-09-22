@@ -11,7 +11,7 @@
     </td>
   </tr>
 
-## 🚀 Tecnologias & Skills
+Tecnologias & Skills
 
 <table align="center">
   <tr>
