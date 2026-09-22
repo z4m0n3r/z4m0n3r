@@ -5,6 +5,12 @@
 
 ---
 
+ <tr>
+    <td align="center" style="padding-top:16px;">
+      <strong>Soft Skills:</strong> Visão de Produto (Venture Building) · Arquitetura de Sistemas · Resolução de Problemas Complexos · Tradução de Requisitos de Negócio · Cybersecurity Mindset
+    </td>
+  </tr>
+
 ## 🚀 Tecnologias & Skills
 
 <table align="center">
@@ -47,11 +53,6 @@
           </td>
         </tr>
       </table>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding-top:16px;">
-      <strong>Soft Skills:</strong> Visão de Produto (Venture Building) · Arquitetura de Sistemas · Resolução de Problemas Complexos · Tradução de Requisitos de Negócio · Cybersecurity Mindset
     </td>
   </tr>
 </table>
