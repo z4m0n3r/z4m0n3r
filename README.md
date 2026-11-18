@@ -70,4 +70,4 @@
     * Execução de testes de vulnerabilidade e aplicação de protocolos de *Security-first* para garantir a integridade de sistemas complexos.
 ---
     
-<img width="100%" src="https://raw.githubusercontent.com/z4m0n3r/z4m0n3r/output/snake.svg?v=sky-blue" alt="Snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/z4m0n3r/z4m0n3r/output/snake-blue.svg" alt="Snake animation" />
